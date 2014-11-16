@@ -1,0 +1,22 @@
+{
+  "name": "redis",
+  "version": "0.1.0",
+  "author": "Jeffrey Sun",
+  "description": "Redis test",
+  "main": "server.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hiredis": "0.1.17",
+    "redis": "0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "redis"
+  ]
+}
